@@ -1,3 +1,6 @@
+from LinkedList.node import Node
+
+
 class LinkedList:
     def __init__(self, value):
         new_node = Node(value)
